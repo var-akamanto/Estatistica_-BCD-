@@ -19,6 +19,6 @@ print(mean(lista))"""
 
 
 
-preco_final = 100
+""" preco_final = 100
 preco_original = preco_final / 1.4
-print(preco_original)
+print(preco_original) """
