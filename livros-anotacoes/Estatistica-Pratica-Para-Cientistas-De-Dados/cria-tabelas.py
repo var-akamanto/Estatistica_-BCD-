@@ -1,5 +1,6 @@
 # Create the dataset as a pandas DataFrame
 import pandas as pd
+import numpy as np
 
 data = {
     "Estado": [
